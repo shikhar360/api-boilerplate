@@ -1,0 +1,5 @@
+---
+"api-boilerplate": patch
+---
+
+initialize
